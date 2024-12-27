@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Larger abstract floating elements -->
+  <path d="M20 15 
+           C40 15, 60 15, 80 15 
+           C90 15, 90 30, 90 45
+           C90 60, 90 75, 80 75
+           C60 75, 40 75, 20 75
+           C10 75, 10 60, 10 45
+           C10 30, 10 15, 20 15"
+        fill="#007AFF"/>
+        
+  <!-- Larger intersecting rings -->
+  <circle cx="60" cy="80" r="20" 
+          fill="#312ECB" 
+          opacity="0.9"/>
+  <circle cx="40" cy="80" r="20" 
+          fill="#007AFF" 
+          opacity="0.9"/>
+          
+  <!-- Larger flowing lines -->
+  <path d="M25 35 C40 35, 60 35, 75 35" 
+        stroke="white" 
+        stroke-width="4"
+        stroke-linecap="round"/>
+  <path d="M25 50 C40 50, 60 50, 70 50" 
+        stroke="white" 
+        stroke-width="4"
+        stroke-linecap="round"/>
+        
+  <!-- Larger abstract fold -->
+  <path d="M80 15 C85 15, 90 20, 90 25" 
+        stroke="#312ECB" 
+        stroke-width="4"
+        fill="none"
+        stroke-linecap="round"/>
+</svg>
